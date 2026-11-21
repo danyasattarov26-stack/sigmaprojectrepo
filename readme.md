@@ -1,4 +1,4 @@
-# Viktorina WITH TIMER!!
+# Viktorina WITH TIMER!! V2
 
 Hello, this is my first project. Thank you for your attention!
 

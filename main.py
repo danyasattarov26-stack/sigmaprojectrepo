@@ -1,7 +1,8 @@
 import time
 questions = {
     "How many planets exist in the solar system?": "8",
-    "What's the capital of france": "Oui Oui Oui, it is paris"
+    "What's the capital of france": "Oui Oui Oui, it is paris",
+    "Who is the president of America?": "Donald Trump"
 }
 score = 0
 for q, a in questions.items():
